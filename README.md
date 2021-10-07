@@ -1,7 +1,7 @@
 # GESTION DES AFFAIRES FINANCIERES POUR UNE ECOLE PRIVE
 L’application de _gestion des affaires financières pour une école d’enseignement privé_ permet de  gérer tout ce qui concerne les élèves, les professeurs, le staff administratif, le carburant des bus et autres charges. En général, tout ce qui concerne les recettes et les dépenses financières pour une école d’enseignement privé.
 ---
-> Gestion des étudiants et performances mensuelles pour chaque étudiant
+>* Gestion des étudiants et performances mensuelles pour chaque étudiant
 > Gestion des professeurs et performance mensuelle de chaque professeur
 > Gestion des chauffeurs et performances mensuelles pour chaque chauffeur
 > Gestion de tous les employés de école et de la performance mensuelle de chaque client (économiseur, nettoyeur, gardien....)
