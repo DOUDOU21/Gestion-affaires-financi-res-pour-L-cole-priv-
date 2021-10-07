@@ -19,4 +19,5 @@ L’application de _gestion des affaires financières pour une école d’enseig
 >* L'application peut extraire le lien d'enregistrement et le lien de performance...
 >* Le langage de programmation utilisé est VB.NET
 >* et base de données SQL*
-![Markdown Logo](IMAGE/1.png)
+![1](https://user-images.githubusercontent.com/92124542/136477638-16f7a41a-26ab-434a-88e7-600b693ad510.png)
+
