@@ -16,6 +16,6 @@ L’application de _gestion des affaires financières pour une école d’enseig
 >* L'application fonctionne avec Excel, c'est-à-dire que vous pouvez convertir la hauteur en Excel et la contrôler comme vous le souhaitez
 >* L'application peut extraire le lien d'enregistrement et le lien de performance...
 >* Le langage de programmation utilisé est VB.NET
->* et base de données SQL
+>* et base de données SQL*
 ![Markdown Logo]
 (/IMAGES/1.png)
