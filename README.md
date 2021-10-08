@@ -20,10 +20,6 @@ L’application de _gestion des affaires financières pour une école d’enseig
 >* Le langage de programmation utilisé est VB.NET
 >* et base de données SQL
 ```
-Interface d’authentification
-```
-![1](https://user-images.githubusercontent.com/92124542/136477638-16f7a41a-26ab-434a-88e7-600b693ad510.png)
-```
 Interface d’accueil
 ```
 ![2](https://user-images.githubusercontent.com/92124542/136477847-233bf968-ab85-419c-a91c-d970890a7ca5.png)
